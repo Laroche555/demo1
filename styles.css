@@ -40,9 +40,9 @@ header .logo a{
     display: none;
 }
 
-@media screen and (max-width:715px) {
+@media screen and (max-width:156.6px) {
     header{
-        
+
     }
     header .mh1{
         display: inline-block;
