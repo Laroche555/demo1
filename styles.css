@@ -36,7 +36,21 @@ header .logo a{
     position: relative;
     top:-90px;
 }
+.mh1{
+    display: none;
+}
 
+@media screen and (max-width:715px) {
+    header{
+        
+    }
+    header .mh1{
+        display: inline-block;
+    }
+    header .mh2{
+        display: none;
+    }
+}
 section {
     background: white;
     color: gray;
